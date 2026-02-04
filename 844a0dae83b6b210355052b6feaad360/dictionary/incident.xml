@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" db_object_id="8540fefb74a132104f345e3235ae47b0" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
         <element label="Name" max_length="20" name="x_1907799_scoped_g_name" type="string"/>
+        <element label="uid" max_length="20" name="x_1907799_scoped_g_g_uid" type="string"/>
     </element>
 </database>
